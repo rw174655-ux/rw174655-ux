@@ -1,4 +1,4 @@
-### Hi, I'm Mayrian 👋
+<p align="center"><img src="assets/title.svg" width="480" alt="Hi, I'm Mayrian 👋"></p>
 
 做产品的人，用 AI 把想法快速变成能跑的 Demo。
 A product person who turns ideas into working demos with AI.
