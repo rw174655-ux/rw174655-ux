@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/signal-day.svg" width="240" alt="小梅信号灯：影子随一天中的时间变化"></p>
+
 ### Hi, I'm Mayrian 👋
 
 做产品的人，用 AI 把想法快速变成能跑的 Demo。
